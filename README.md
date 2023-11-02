@@ -1,1 +1,5 @@
-# parcial-fronEnd-3
+## Para correr el proyecto
+
+`npm install`
+
+`npm run dev`
